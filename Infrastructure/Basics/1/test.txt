@@ -1,0 +1,5 @@
+Hello World 
+
+ToDo here: 
+
+Create a basic storage account in Azure. Make sure it is a StorageV2 account with a Locally Redundant Zone. 
